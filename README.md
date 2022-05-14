@@ -1,6 +1,8 @@
 # Dallas Mavericks
 
 This is a non-functional app which shows the image of my favourite basketball team - "Dallas Mavericks"
+
+Mentor - Angela Yu
 <!-- 
 ## Getting Started
 
