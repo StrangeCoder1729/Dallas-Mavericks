@@ -2,7 +2,8 @@
 
 This is a non-functional app which shows the image of my favourite basketball team - "Dallas Mavericks"
 
-- For Viewing the image 
+- For Viewing the image go to the image file i.e view_the_image.jpg , which i have uploaded in this repository
+
 Mentor - Angela Yu
 <!-- 
 ## Getting Started
