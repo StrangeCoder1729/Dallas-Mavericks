@@ -2,6 +2,7 @@
 
 This is a non-functional app which shows the image of my favourite basketball team - "Dallas Mavericks"
 
+- For Viewing the image 
 Mentor - Angela Yu
 <!-- 
 ## Getting Started
